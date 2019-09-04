@@ -1,0 +1,12 @@
+D:\Project\SqlHelper\bin\Debug\SqlHelper.dll
+D:\Project\SqlHelper\bin\Debug\SqlHelper.pdb
+D:\Project\SqlHelper\obj\Debug\SqlHelper.csprojAssemblyReference.cache
+D:\Project\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
+D:\Project\SqlHelper\obj\Debug\SqlHelper.dll
+D:\Project\SqlHelper\obj\Debug\SqlHelper.pdb
+F:\ProjectCode\FirstDBPro\Project\SqlHelper\bin\Debug\SqlHelper.dll
+F:\ProjectCode\FirstDBPro\Project\SqlHelper\bin\Debug\SqlHelper.pdb
+F:\ProjectCode\FirstDBPro\Project\SqlHelper\obj\Debug\SqlHelper.csprojAssemblyReference.cache
+F:\ProjectCode\FirstDBPro\Project\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
+F:\ProjectCode\FirstDBPro\Project\SqlHelper\obj\Debug\SqlHelper.dll
+F:\ProjectCode\FirstDBPro\Project\SqlHelper\obj\Debug\SqlHelper.pdb
